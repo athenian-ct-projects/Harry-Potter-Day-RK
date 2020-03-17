@@ -1,9 +1,5 @@
-# Assignment Description
+# Harry Potter Day RK '23
 
-written by 
+[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Harry-Potter-Day-RK)](https://repl.it/github/athenian-ct-projects/Harry-Potter-Day-RK)
 
-edit with appropriate link:
-
-[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Ambassador-Day-Game-VGE)](https://repl.it/github/athenian-ct-projects/Ambassador-Day-Game-VGE)
-
-Add info about game here
+* A Quidditch Game for Harry Potter Day
